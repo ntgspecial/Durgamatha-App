@@ -1,4 +1,4 @@
-FROM arshsisodiya/helioskirepo:public
+FROM villain4u/durgamatha:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
