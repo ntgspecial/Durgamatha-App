@@ -1,4 +1,4 @@
-This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram.
+This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram. [Docker](https://github.com/ntgspecial/durgamatha) 
 
 # Features implemented by Arsh :
 - Leech Log
