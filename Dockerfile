@@ -1,4 +1,4 @@
-FROM villain4u/durgamatha:latest
+FROM villain4u/safe:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
